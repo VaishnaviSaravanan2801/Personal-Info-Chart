@@ -22,7 +22,7 @@ body {
   </div> 
 <table>
 <table border=10 bgcolor=skyblue  width=35%  cellpadding=5 align=center>
-<caption  align=center> <b>  Secondary School Leaving Certificate Marks </b>  </caption
+<caption  align=center> <b>  Secondary School Leaving Certificate Marks </b>  </caption>
 <tr  bgcolor=pink>
 <th  rowspan=2>  S.NO.  </th>
 <th  rowspan=2>  Subject   </th>

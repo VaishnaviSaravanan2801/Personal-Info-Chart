@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Personal Information Chart</title>	
+</head>
+<body>
+<style>
+body {
+  background-image: url('https://cdn2.slidemodel.com/wp-content/uploads/7243-01-low-poly-background-16x9-1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<h1><center>Personal Information Chart</h1>
+	<div class="tab">
+		 <button class="tablinks" onclick="document.location='Pci.html'">Personal Details</button>
+		  <button class="tablinks" onclick="document.location='Academic.html'">Academic</button>
+		   <button class="tablinks" onclick="document.location='Skill.html'">Skillset</button>
+		   <button class="tablinks" onclick="document.location='Accomplishment.html'">Accomplishment</button>
+  </div>
+<h2>Vaishnavi Saravanan</h2>
+<img src="https://cdn4.vectorstock.com/i/thumb-large/37/53/muslim-woman-with-hijab-character-line-and-fill-vector-31093753.jpg" width="200" height="200" align="right" />
+<h3><b>Personal Details</b></h3>
+<table>
+<tr><h4>Father Name: xxxxx</h4>
+<h4>DOB: xxxx</h4>
+<h4>Gender: xxxx</h4>
+<h4>Aadhar No: 1213 1342 5168</h4>
+<h4>Community: xxx</h4>
+<h4>Caste: xxxx</h4>
+<h4>Nationality: xxxx</h4>
+<h4>Religion: xxxx</h4>
+<h4>Languages Known: Tamil, English, French</h4>
+<h4>Permanent Address: xxxxx</h4>
+<h4>Pincode: xxxxx</h4>
+<h4>Email id: xxxxxx</h4>
+<h4>Mobile No.: 9000000009</h4></tr>
+</center>
+<h4>LinkedIn Profile: <a href="https://www.linkedin.com/in/vaishnavi-saravanan-5b94b7169">www.linkedin.com/vaishnavi-saravanan</a></h4>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Personal Information Chart</title>	
+</head>
+<body>
+<style>
+body {
+  background-image: url('https://cdn2.slidemodel.com/wp-content/uploads/7243-01-low-poly-background-16x9-1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<h1><center>Personal Information Chart</h1>
+	<h2><b><center>Academic Details</b></h2></center>
+	<div class="tab">
+		 <button class="tablinks" onclick="document.location='Pci.html'">Back</button>
+		  <button class="tablinks" onclick="document.location='Academic.html'">SSLC</button>
+		   <button class="tablinks" onclick="document.location='HSC.html'">HSC</button>
+		    <button class="tablinks" onclick="document.location='Ug.html'">UnderGraduate</button>
+		     <button class="tablinks" onclick="document.location='Pg.html'">PostGraduate</button>
+  </div> 
+<table border=10 bgcolor=skyblue  width=35%  cellpadding=5 align=center>
+<caption  align=center> <b>  Under Graduation Marks </b>  </caption>
+<tr  bgcolor=pink>
+<th  rowspan=2>  S.NO.  </th>
+<th  rowspan=2>  Subject   </th>
+<th  rowspan=2>  Marks  </th>
+<th  rowspan=2>  Grade Points  </th>
+<th  colspan=2>  Result </th>  </tr>
+<tr  bgcolor=yellow>
+<th>  Grade  </th>  <th> Status  </th>
+<tr>
+<td>  1  </td>
+<td  align=left>  French </td>
+<td  align=left>  89 </td>
+<td  align=left>  9 </td>
+<td  align=left>  A+ </td>
+<td  align=left>  Pass </td>  </tr>
+<tr>
+<td>  2  </td>
+<td  align=left>  English  </td>
+<td  align=left>  75 </td>
+<td  align=left>  8 </td>
+<td  align=left>  A  </td>
+<td  align=left>  Pass </td>  </tr>
+<tr>
+<td>  3 </td>
+<td  align=left>  Major  </td>
+<td  align=left>  72 </td>
+<td  align=left>  7  </td>
+<td  align=left>  B+ </td>
+<td  align=left>  Pass </td>  </tr>
+<tr>
+<td>  4 </td>
+<td  align=left>  Allied  </td>
+<td  align=left>  68 </td>
+<td  align=left>  7 </td>
+<td  align=left>  B+ </td>
+<td  align=left>  Pass </td>  </tr>
+<tr>
+<td>  5 </td>
+<td  align=left>  Lab Practical </td>
+<td  align=left>  100  </td>
+<td  align=left>  10 </td>
+<td  align=left>  O </td>
+<td  align=left>  Pass </td>  
+</tr>
+<td>  6 </td>
+<td  align=left>  NME  </td>
+<td  align=left>  73  </td>
+<td  align=left>  8 </td>
+<td  align=left>  A+ </td>
+<td  align=left>  Pass </td>  </tr>
+<tr>
+<td  colspan=3  align=left>  Over all Percentage  </td>
+<td  align=left>  80 </td>
+<td  align=left>  A+ </td>
+<td  align=left>  Pass </td>  </tr>
+<tr>
+<td bgcolor=pink colspan=6 align=left><a href="https://www.chartgo.com/share.do?id=3a1a49d9aa">https://graphical-representation/of/marks</a></td>
+</tr></table>
+</body>
+</html>
